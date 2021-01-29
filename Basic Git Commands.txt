@@ -18,5 +18,5 @@ git diff
 git diff --staged
 git commit -m "message"
 git commit -a -m "message"
-git checkout [commit has code]
+git checkout [commit hash code]
 
